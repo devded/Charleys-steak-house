@@ -136,6 +136,11 @@ height: 400px;
 width: 350px;
 justify-content: space-around;
 flex-flow: wrap;
+}
 
 
+.news-event-section {
+  display: flex;  
+  width: 100%;
+  justify-content: space-between;
 }
